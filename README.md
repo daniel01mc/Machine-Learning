@@ -1,3 +1,3 @@
 # Machine-Learning
 
-## Repository use for class work and projects. 
+## Repository used for class work and projects. 
